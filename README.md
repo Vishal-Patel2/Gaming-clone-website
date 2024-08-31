@@ -1,6 +1,6 @@
 # Gaming Website 🎮
 
-![Gaming Website](https://file:///C:/Users/vishal%20patel/OneDrive/Pictures/Screenshots/Screenshot%202024-08-31%20112327.png) 
+![Gaming Website](http://127.0.0.1:5500/index.html) 
 
 ## Description
 
@@ -16,6 +16,6 @@ This project is a fully functional **gaming website** built to provide a seamles
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express (if applicable)
+- **Backend**: Node.js, Express 
 - **Database**: MongoDB (or any other database used)
 - **Version Control**: Git and GitHub
