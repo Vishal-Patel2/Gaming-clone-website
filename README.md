@@ -1,6 +1,6 @@
 # Gaming Website 🎮
 
-![Gaming Website](file:///C:/Users/vishal%20patel/OneDrive/Pictures/Screenshots/Screenshot%202024-08-31%20112327.png) 
+![Gaming Website](https://file:///C:/Users/vishal%20patel/OneDrive/Pictures/Screenshots/Screenshot%202024-08-31%20112327.png) 
 
 ## Description
 
