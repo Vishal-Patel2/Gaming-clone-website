@@ -1,6 +1,6 @@
 # Gaming Website 🎮
 
-[Visit My Gaming Website](http://127.0.0.1:5500/index.html)
+[Visit My Gaming Website](https://vishal-patel2.github.io/Gaming-clone-website/)
 
 ## Description
 
